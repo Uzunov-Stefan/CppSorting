@@ -1,0 +1,3 @@
+C:/Users/Uzunov/CLionProjects/CppSorting/cmake-build-debug/CMakeFiles/CppSorting.dir
+C:/Users/Uzunov/CLionProjects/CppSorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Uzunov/CLionProjects/CppSorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

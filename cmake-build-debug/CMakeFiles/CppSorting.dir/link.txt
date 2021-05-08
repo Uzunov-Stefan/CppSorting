@@ -1,0 +1,3 @@
+C:\Users\Uzunov\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\CppSorting.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\CppSorting.dir/objects.a @CMakeFiles\CppSorting.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\CppSorting.dir/objects.a -Wl,--no-whole-archive -o CppSorting.exe -Wl,--out-implib,libCppSorting.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CppSorting.dir\linklibs.rsp
